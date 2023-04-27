@@ -1,8 +1,5 @@
 # Sprocket-Central-Dashboard-in-Tableau
 
-Tableau Public: https://public.tableau.com/views/KPMGSprocketcentralDashboard/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
-
-
 Task - Develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard. 
 
 
